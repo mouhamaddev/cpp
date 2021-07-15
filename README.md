@@ -1,1 +1,1 @@
-![simple calculator](/calc.png)
+![simple calculator](/image.png)
